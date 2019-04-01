@@ -41,6 +41,7 @@ Escola de Contas Públicas Professor Barreto Guimarães TCE PE - https://escola.
 
 ###RN###
 Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
+
 Escola da Assembleia RN - http://www.al.rn.gov.br/portal/escola
 
 ###RR###
