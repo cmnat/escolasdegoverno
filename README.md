@@ -24,8 +24,22 @@ Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR - https://educacaoa
 
 **ESTADUAL**
 
-Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
+Escola de Serviço Público da Paraíba - https://espep.pb.gov.br/
 
 Escola de Governo GO - http://www.escoladegoverno.go.gov.br/
 
+Escola de Governo MG - http://eg.fjp.mg.gov.br/
+
+Escola de Governo MS - http://www.escolagov.ms.gov.br/
+
+Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
+
+Escola de Governo RR - http://www.escoladegoverno.rr.gov.br/
+
 Escola de Governo SP - http://www.escoladegoverno.org.br/
+
+Escola de Contas Públicas Professor Barreto Guimarães TCE PE - https://escola.tce.pe.gov.br/
+
+** MUNICIPAL **
+
+Escola de Governo da Cidade do Recife - http://escoladegoverno.recife.pe.gov.br/
