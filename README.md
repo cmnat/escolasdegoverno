@@ -34,6 +34,8 @@ Escola de Governo MS - http://www.escolagov.ms.gov.br/
 
 Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
 
+Escola da Assembleia RN - http://www.al.rn.gov.br/portal/escola
+
 Escola de Governo RR - http://www.escoladegoverno.rr.gov.br/
 
 Escola de Governo SP - http://www.escoladegoverno.org.br/
