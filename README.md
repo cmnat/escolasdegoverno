@@ -4,44 +4,53 @@ As Escolas de Governo são instituições públicas criadas com a finalidade de 
 
 **FEDERAL**
 
-Escola de Governo do Senado - https://www12.senado.leg.br/institucional/escola-de-governo
+	Escola de Governo do Senado - https://www12.senado.leg.br/institucional/escola-de-governo
 
-Rede Nacional de Escolas de Governo - https://redeescolas.enap.gov.br/
+	Rede Nacional de Escolas de Governo - https://redeescolas.enap.gov.br/
 
-Portal Único de Escolas de Governo - https://www.escolavirtual.gov.br/
+	Portal Único de Escolas de Governo - https://www.escolavirtual.gov.br/
 
-Escola Nacional de Saúde Pública Sergio Arouca - http://ensp.fiocruz.br/
+	Escola Nacional de Saúde Pública Sergio Arouca - http://ensp.fiocruz.br/
 
-Escola Nacional de Administração Pública - https://www.enap.gov.br
+	Escola Nacional de Administração Pública - https://www.enap.gov.br
 
-Escola Nacional de Ciências Estatísticas - http://www.ence.ibge.gov.br/
+	Escola Nacional de Ciências Estatísticas - http://www.ence.ibge.gov.br/
 
-Insituto Serzedello Corrêa ISC - https://contas.tcu.gov.br/ead/
+	Insituto Serzedello Corrêa ISC - https://contas.tcu.gov.br/ead/
 
-Instituto Legislativo Brasileiro - https://saberes.senado.leg.br/
+	Instituto Legislativo Brasileiro - https://saberes.senado.leg.br/
 
-Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR - https://educacaoadistancia.camara.leg.br/site/
+	Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR - https://educacaoadistancia.camara.leg.br/site/
 
 **ESTADUAL**
 
-Escola de Serviço Público da Paraíba - https://espep.pb.gov.br/
+	**GO**
+	Escola de Governo GO - http://www.escoladegoverno.go.gov.br/
 
-Escola de Governo GO - http://www.escoladegoverno.go.gov.br/
+	**MG**
+	Escola de Governo MG - http://eg.fjp.mg.gov.br/
 
-Escola de Governo MG - http://eg.fjp.mg.gov.br/
+	**MS**
+	Escola de Governo MS - http://www.escolagov.ms.gov.br/
 
-Escola de Governo MS - http://www.escolagov.ms.gov.br/
+	**PB**
+	Escola de Serviço Público da Paraíba - https://espep.pb.gov.br/
 
-Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
+	**PE**
+	Escola de Contas Públicas Professor Barreto Guimarães TCE PE - https://escola.tce.pe.gov.br/
 
-Escola da Assembleia RN - http://www.al.rn.gov.br/portal/escola
+	**RN**
+	Escola de Governo RN - http://www.escoladegoverno.rn.gov.br/
+	Escola da Assembleia RN - http://www.al.rn.gov.br/portal/escola
 
-Escola de Governo RR - http://www.escoladegoverno.rr.gov.br/
+	**RR**
+	Escola de Governo RR - http://www.escoladegoverno.rr.gov.br/
 
-Escola de Governo SP - http://www.escoladegoverno.org.br/
+	**SP**
+	Escola de Governo SP - http://www.escoladegoverno.org.br/
 
-Escola de Contas Públicas Professor Barreto Guimarães TCE PE - https://escola.tce.pe.gov.br/
 
 **MUNICIPAL**
 
-Escola de Governo da Cidade do Recife - http://escoladegoverno.recife.pe.gov.br/
+	**PE**
+	Escola de Governo da Cidade do Recife - http://escoladegoverno.recife.pe.gov.br/
