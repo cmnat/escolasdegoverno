@@ -40,6 +40,6 @@ Escola de Governo SP - http://www.escoladegoverno.org.br/
 
 Escola de Contas Públicas Professor Barreto Guimarães TCE PE - https://escola.tce.pe.gov.br/
 
-** MUNICIPAL **
+**MUNICIPAL**
 
 Escola de Governo da Cidade do Recife - http://escoladegoverno.recife.pe.gov.br/
