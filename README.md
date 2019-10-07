@@ -64,7 +64,7 @@ Escola de Contas Públicas Professor Barreto Guimarães TCE PE: [https://escola.
 
 ### Campo Grande
 
-Escola de Governo da cidade de Campo Grande: [http://www.campogrande.ms.gov.br/egov/] (http://www.campogrande.ms.gov.br/egov/)
+Escola de Governo da cidade de Campo Grande: [http://www.campogrande.ms.gov.br/egov/](http://www.campogrande.ms.gov.br/egov/)
 
 ## PE
 
