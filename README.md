@@ -24,6 +24,10 @@ Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR : [https://educacao
 
 # **ESTADUAL**
 
+## CE
+
+Instituto Escola Superior de Contas e Gestão: [http://www.ipc.tce.ce.gov.br/](http://www.ipc.tce.ce.gov.br/)
+
 ## GO
 
 Escola de Governo : [http://www.escoladegoverno.go.gov.br/](http://www.escoladegoverno.go.gov.br/)
