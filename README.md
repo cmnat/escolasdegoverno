@@ -4,7 +4,11 @@ As Escolas de Governo são instituições públicas criadas com a finalidade de 
 
 # **FEDERAL**
 
-Escola de Governo do Senado: [https://www12.senado.leg.br/institucional/escola-de-governo](https://www12.senado.leg.br/institucional/escola-de-governo)
+Escola de Governo do Senado: Instituto Legislativo Brasileiro - ILB [https://www.interlegis.leg.br/](https://www.interlegis.leg.br/)
+
+Saberes: [https://saberes.senado.leg.br/](https://saberes.senado.leg.br/)
+
+Escola da Câmara dos Deputados: Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR [https://escolavirtualdecidadania.camara.leg.br/](https://escolavirtualdecidadania.camara.leg.br/)
 
 Rede Nacional de Escolas de Governo: [https://redeescolas.enap.gov.br/](https://redeescolas.enap.gov.br/)
 
@@ -16,17 +20,23 @@ Escola Nacional de Administração Pública: [https://www.enap.gov.br](https://w
 
 Escola Nacional de Ciências Estatísticas: [http://www.ence.ibge.gov.br/](http://www.ence.ibge.gov.br/)
 
-Insituto Serzedello Corrêa ISC: [https://contas.tcu.gov.br/ead/](https://contas.tcu.gov.br/ead/)
+Tribunal de Contas - TCU: Insituto Serzedello Corrêa ISC [https://contas.tcu.gov.br/ead/](https://contas.tcu.gov.br/ead/)
 
-Instituto Legislativo Brasileiro: [https://saberes.senado.leg.br/](https://saberes.senado.leg.br/)
-
-Centro de Formação, Treinamento e Aperfeiçoamento - CEFOR : [https://educacaoadistancia.camara.leg.br/site/](https://educacaoadistancia.camara.leg.br/site/)
+Instituto Rui Barbosa [https://irbcontas.org.br/](https://irbcontas.org.br/)
 
 # **ESTADUAL**
 
+## AC
+
+TCE - Escola de Contas Cons. Alcides Dutra de Lima: [http://www.tce.ac.gov.br/institucional/escola/](http://www.tce.ac.gov.br/institucional/escola/)
+
+## AL
+
+TCE - Escola de Contas Públicas Cons. José Alfredo de Mendonça [https://www.tceal.tc.br/escola/](https://www.tceal.tc.br/escola/) 
+
 ## CE
 
-Instituto Escola Superior de Contas e Gestão: [http://www.ipc.tce.ce.gov.br/](http://www.ipc.tce.ce.gov.br/)
+TCE - Instituto Escola Superior de Contas e Gestão: [http://www.ipc.tce.ce.gov.br/](http://www.ipc.tce.ce.gov.br/)
 
 ## GO
 
@@ -60,7 +70,7 @@ Escola da Assembleia: [http://www.al.rn.gov.br/portal/escola](http://www.al.rn.g
 
 ## PE
 
-Escola de Contas Públicas Professor Barreto Guimarães TCE PE: [https://escola.tce.pe.gov.br/](https://escola.tce.pe.gov.br/)
+TCE - Escola de Contas Públicas Professor Barreto Guimarães: [https://escola.tce.pe.gov.br/](https://escola.tce.pe.gov.br/)
 
 # **MUNICIPAL**
 
@@ -76,4 +86,6 @@ Escola de Governo da cidade de Campo Grande: [http://www.campogrande.ms.gov.br/e
 
 Escola de Governo da Cidade do Recife: [http://escoladegoverno.recife.pe.gov.br/](http://escoladegoverno.recife.pe.gov.br/)
 
+# Referências
 
+[Associação Brasileira das Escolas do Legislativo e de Contas](https://www.portalabel.org.br)
