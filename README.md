@@ -68,7 +68,7 @@ Escola da Assembleia: [http://www.al.rn.gov.br/portal/escola](http://www.al.rn.g
 
 Escola de Governo: [http://www.escoladegoverno.rn.gov.br/](http://www.escoladegoverno.rn.gov.br/)
 
-TCE - Escola de Contas: [http://tce.rn.gov.br/EscolaContas/](http://tce.rn.gov.br/EscolaContas/)
+TCE - Escola de ContasProf. Severino Lopes de Oliveira: [http://tce.rn.gov.br/EscolaContas/](http://tce.rn.gov.br/EscolaContas/)
 
 ## PE
 
