@@ -64,9 +64,11 @@ Escola de Governo: [http://www.escoladegoverno.org.br/](http://www.escoladegover
 
 ## RN
 
+Escola da Assembleia: [http://www.al.rn.gov.br/portal/escola](http://www.al.rn.gov.br/portal/escola)
+
 Escola de Governo: [http://www.escoladegoverno.rn.gov.br/](http://www.escoladegoverno.rn.gov.br/)
 
-Escola da Assembleia: [http://www.al.rn.gov.br/portal/escola](http://www.al.rn.gov.br/portal/escola)
+TCE - Escola de Contas: [http://tce.rn.gov.br/EscolaContas/](http://tce.rn.gov.br/EscolaContas/)
 
 ## PE
 
