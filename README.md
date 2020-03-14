@@ -88,6 +88,11 @@ Escola de Governo da cidade de Campo Grande: [http://www.campogrande.ms.gov.br/e
 
 Escola de Governo da Cidade do Recife: [http://escoladegoverno.recife.pe.gov.br/](http://escoladegoverno.recife.pe.gov.br/)
 
+## RN
+
+### Natal
+ Escola do Legislativo Wilma de Faria: [https://cmnat.rn.gov.br/p/escola-do-legislativo](https://cmnat.rn.gov.br/p/escola-do-legislativo)
+
 # Referências
 
 [Associação Brasileira das Escolas do Legislativo e de Contas](https://www.portalabel.org.br)
