@@ -54,6 +54,10 @@ Escola de Governo: [http://www.escolagov.ms.gov.br/](http://www.escolagov.ms.gov
 
 Escola de Serviço Público da Paraíba: [https://espep.pb.gov.br/](https://espep.pb.gov.br/)
 
+## RJ
+
+Escola de Gestão e Políticas Públicas: [https://ev.ceperj.rj.gov.br/](https://ev.ceperj.rj.gov.br/)
+
 ## RR
 
 Escola de Governo: [http://www.escoladegoverno.rr.gov.br/](http://www.escoladegoverno.rr.gov.br/)
