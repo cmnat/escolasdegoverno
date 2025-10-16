@@ -69,6 +69,8 @@ TCE - Escola de Contas Públicas Cons. José Alfredo de Mendonça [https://www.t
 
 ### CE
 
+EPCE - Escola de Gestão Pública do Estado do Ceará - https://www.egp.ce.gov.br/
+
 TCE - Instituto Escola Superior de Contas e Gestão: [http://www.ipc.tce.ce.gov.br/](http://www.ipc.tce.ce.gov.br/)
 
 ### GO
